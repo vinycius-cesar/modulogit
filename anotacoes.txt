@@ -1,0 +1,3 @@
+iniciar diretorio: git init
+
+adicionar arquivos ao git: git add -A
