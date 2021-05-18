@@ -3,3 +3,5 @@ iniciar diretorio: git init
 adicionar arquivos ao git: git add -A
 
 voltar versao: git reset --soft
+
+enviar para o github: git push nomedestino nomedabrunch
